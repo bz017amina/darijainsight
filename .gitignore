@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Training checkpoints
+training/darijainsight_model/checkpoint-*/
+
+# Large model files
+*.pt
+*.pth
+*.safetensors
+
+# Cache
+.cache/
+.ipynb_checkpoints/
