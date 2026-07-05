@@ -23,8 +23,7 @@ The main objectives of this project are to:
 The following flyer presents the motivation, objectives, application features, business value, and user interface of **DarijaInsight**.
 
 <p align="center">
-  <img src="images
-/flyerfin.pdf.png" width="900">
+  <img src="images/flyerfin.pdf.png" width="900">
 </p>
 
 ---
@@ -40,7 +39,7 @@ DarijaInsight provides a modern web application that allows users to analyze cus
 The landing page introduces the platform and allows users to start sentiment analysis instantly.
 
 <p align="center">
-  <img src="images/app1.png" width="900">
+  <img src="images/app1.jpg" width="900">
 </p>
 
 ---
@@ -55,7 +54,7 @@ The dashboard stores analyzed reviews and displays:
 - Search and filtering options
 
 <p align="center">
-  <img src="images/app2.png" width="900">
+  <img src="images/app2.jpg" width="900">
 </p>
 
 ---
@@ -70,7 +69,7 @@ The statistics page provides a global overview of customer opinions through inte
 - Daily sentiment evolution
 
 <p align="center">
-  <img src="images/app3.png" width="900">
+  <img src="images/app3.jpg" width="900">
 </p>
 
 ---
