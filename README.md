@@ -110,6 +110,3 @@ The platform helps companies to:
 - Improve products and services based on customer opinions.
 - Make faster, data-driven business decisions.
 - Reduce the manual effort required for customer feedback analysis.
-
----
-
